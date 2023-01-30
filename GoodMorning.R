@@ -1,3 +1,3 @@
 # This script will tell me good  morning 
 
-print("Good Morning!")
+print("Bad Morning!:(")
